@@ -1,2 +1,2 @@
-# DataAnalysis_projects
-freeCodeCamp data analysis course
+# 📶🔎Data Analysis🔍💹
+in this repository you will find projects of freeCodeCamp Data Analysis with Python course
